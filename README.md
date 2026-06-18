@@ -1,36 +1,28 @@
-# Deepl Learing
+# Deep Learning Practice Notebooks
 
-Deep learning notebooks and experiments covering neural network fundamentals.
+A collection of deep learning notebooks covering neural-network fundamentals.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+Deep learning concepts become clearer when they are implemented and compared through experiments. This repository collects notebooks around activation functions, backpropagation, scaling, dropout, normalization, and model improvement.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Neural-network fundamentals
+- Training-improvement techniques
+- Notebook-based experimentation
 
-## Tech Stack
+## Stack
 
-- Primary language: Jupyter Notebook
-- Topics: deep-learning, jupyter-notebook, neural-networks
-
-## Repository Structure
-
-- Top-level folders: Activation_Function, Backpropagation_In_terms_of_regression, Batch_Normalization, Data_Scaling, Dropout_layer, Early_stopping, Exponentially_Weighted_Moving_Average, Gradient_descent, Graduate_admission_prediction, How_to_improve_performance_of_NN, MLP-Notation, MLP_Memorization
-- Top-level files: README.md
-
-## Status
-
-The current repository name is preserved to avoid breaking links. For a stronger HR-facing portfolio, consider creating a cleaner replacement repo later.
+- Python
+- Jupyter Notebook
+- Deep Learning
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Create a cleaner repo name in a future version
+- Add an index linking every notebook/topic
+- Add results/plots for key experiments
 
 ## Author
 
